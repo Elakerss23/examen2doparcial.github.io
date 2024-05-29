@@ -300,15 +300,15 @@ nav a::before {
 
 }
 .slides .slide:nth-child(2) {
-  background-image: url(../images/aboutbanner.jpg);
+  background-image: url(aboutbanner.jpg);
   background-position: fixed;
 }
 .slides .slide:nth-child(3) {
-  background-image: url(../images/gallerybanner.jpg);
+  background-image: url(gallerybanner.jpg);
   background-position: fixed;
 }
 .slides .slide:nth-child(4) {
-  background-image: url(../images/contactbanner.jpg);
+  background-image: url(contactbanner.jpg);
   background-position: fixed;
 }
 
@@ -348,13 +348,13 @@ nav a::before {
   overflow: hidden;
 }
 #image-slider ul li:nth-child(1) {
-  background-image: url(../images/bannerfutbol.jpg);
+  background-image: url(images/bannerfutbol.jpg);
 }
 #image-slider ul li:nth-child(2) {
-  background-image: url(../images/bannertennisnike.jpg);
+  background-image: url(bannertennisnike.jpg);
 }
 #image-slider ul li:nth-child(3) {
-  background-image: url(../images/bannerdeportes.jpg);
+  background-image: url(bannerdeportes.jpg);
 }
 #image-slider ul li.active-img{
   left: 0;
